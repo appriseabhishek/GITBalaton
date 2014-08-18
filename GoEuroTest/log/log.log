@@ -1,0 +1,15 @@
+Exception Connection is null
+HTTP Response:- [{"_id":314974,"key":null,"name":"Albacete","fullName":"Albacete (ABC), Spain","iata_airport_code":"ABC","type":"airport","country":"Spain","geo_position":{"latitude":38.95325,"longitude":-1.862009},"locationId":null,"inEurope":true,"countryCode":"ES","coreCountry":true,"distance":null}]
+0 Record :- Record [ id=314974, name=Albacete, type=airport, latitude=38.95325, longitude=-1.862009]
+Records fetched from the Server:-  [Record [ id=314974, name=Albacete, type=airport, latitude=38.95325, longitude=-1.862009]]
+No of records writing to the file []
+No of records writing to the file []
+Exception Connection is null
+HTTP Response:- [{"_id":314974,"key":null,"name":"Albacete","fullName":"Albacete (ABC), Spain","iata_airport_code":"ABC","type":"airport","country":"Spain","geo_position":{"latitude":38.95325,"longitude":-1.862009},"locationId":null,"inEurope":true,"countryCode":"ES","coreCountry":true,"distance":null}]
+0 Record :- Record [ id=314974, name=Albacete, type=airport, latitude=38.95325, longitude=-1.862009]
+Records fetched from the Server:-  [Record [ id=314974, name=Albacete, type=airport, latitude=38.95325, longitude=-1.862009]]
+No of records writing to the file []
+Sending a HTTP request:- https://api.goeuro.com/api/v2/position/suggest/en/Sun
+HTTP Response Code : 200
+Sending a HTTP request:- https://api.goeuro.com/api/v2/position/suggest/en/
+HTTP Response Code : 400

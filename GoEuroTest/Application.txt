@@ -1,0 +1,13 @@
+
+
+Things to do:-
+1. Argument validation on command line
+2. Junit to test the functionality- HTTP Response Code validation
+3. Logger implementation
+4. Spring IOC Implementation
+
+Questions:-
+1. Why HTTP request rather than HTTPS ??
+2. Is integer allowed in the search String??
+3. The attribute _type does not exist in the HTTP response JSON Array?
+
